@@ -15,6 +15,7 @@
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "mongodb": "^6.15.0",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "spotify-hashtag": "file:.."
   }
 }
