@@ -17,4 +17,4 @@ Nesse projeto criado juntamente com a Hashtag, foi desenvolvido um protótipo do
 
 ## 🚨 Aviso
 
-O projeto não é original, foi criado para fins de estudo!
+O projeto não é original, foi criado para fins de estudo! Acesse o link do projeto [aqui](https://spotify-hashtag-b0dq.onrender.com).
